@@ -1,12 +1,12 @@
-# 👨‍💻 Gabriel Damasceno
+# Gabriel Damasceno
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
 Hello I'm Gabriel, a bachelor's student in computer science and passionate about the world of technology. I'm a back-end developer, curious and dedicated to solving problems in a creative way. I am dedicated to always seeking to learn new technologies in order to add and contribute to everyone around me, I also like to visualize problems from different points of view in order to be as efficient as possible.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
