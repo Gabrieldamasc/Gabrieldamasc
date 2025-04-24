@@ -47,7 +47,7 @@ Hello I'm Gabriel, a bachelor's student in computer science and passionate about
 
 <img 
     align="left" 
-    alt="Python" 
+    alt="Csharp" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
@@ -56,7 +56,7 @@ Hello I'm Gabriel, a bachelor's student in computer science and passionate about
 
 <img 
     align="left" 
-    alt="Python" 
+    alt=".NET" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
